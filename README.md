@@ -63,6 +63,7 @@ One row per protein.
 
 ### `targets.tsv`
 Example at: [data/targets_example.tsv](data/targets_example.tsv)
+
 One row per annotated residue.
 
 | Column | Type | Description |
