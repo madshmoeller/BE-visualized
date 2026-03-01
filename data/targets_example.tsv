@@ -1,0 +1,11 @@
+screen	uniprot_id	resnum	resname	sources	role
+ActivEdit	P67775	57	D	UniProt Binding|M-CSA	Mn(2+); metal ligand
+ActivEdit	P67775	59	H	UniProt Binding|M-CSA	Mn(2+); metal ligand
+ActivEdit	P67775	85	D	UniProt Binding|M-CSA	Mn(2+)_Mn(2+); metal ligand
+ActivEdit	P67775	88	D	M-CSA	electrostatic stabiliser
+ActivEdit	P67775	89	R	M-CSA	transition state stabiliser
+ActivEdit	P67775	117	N	UniProt Binding|M-CSA	Mn(2+); metal ligand
+ActivEdit	P67775	118	H	UniProt Active|M-CSA	Proton donor; proton shuttle (general acid/base)
+ActivEdit	P67775	167	H	UniProt Binding|M-CSA	Mn(2+); metal ligand
+ActivEdit	P67775	214	R	M-CSA	transition state stabiliser
+ActivEdit	P67775	241	H	UniProt Binding|M-CSA	Mn(2+); metal ligand

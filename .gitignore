@@ -1,0 +1,24 @@
+# Data files (large TSVs, managed separately)
+data/proteins.tsv
+data/guides.tsv
+data/targets.tsv
+
+# Cached AlphaFold structures (downloaded on demand)
+structures/*.cif
+structures/*.pdb
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Archives
+*.zip

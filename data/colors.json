@@ -1,0 +1,20 @@
+{
+  "sources": {
+    "UniProt Active": "#E74C3C",
+    "UniProt Binding": "#3498DB",
+    "UniProt Site": "#1ABC9C",
+    "M-CSA": "#E67E22",
+    "M-CSA Reference": "#F1C40F",
+    "Manual": "#9B59B6",
+    "MSA": "#27AE60"
+  },
+  "screens": {
+    "ActivEdit": "#c62828",
+    "KinasEdit": "#1565c0"
+  },
+  "guides": "#6366F1",
+  "structure": {
+    "target_3d": "#FF1493",
+    "selection_3d": "#39FF14"
+  }
+}
