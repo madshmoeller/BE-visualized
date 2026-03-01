@@ -47,6 +47,7 @@ Each protein page shows:
 Place your data files in the `data/` directory. All files are tab-separated (TSV) with a header row.
 
 ### `proteins.tsv`
+Example at: [data/proteins_example.tsv](data/proteins_example.tsv)
 
 One row per protein.
 
@@ -61,7 +62,7 @@ One row per protein.
 | `sequence` | string | Full amino acid sequence (one-letter code) |
 
 ### `targets.tsv`
-
+Example at: [data/targets_example.tsv](data/targets_example.tsv)
 One row per annotated residue.
 
 | Column | Type | Description |
@@ -74,6 +75,7 @@ One row per annotated residue.
 | `role` | string | Functional role description (optional) |
 
 ### `guides.tsv`
+Example at: [data/guides_example.tsv](data/guides_example.tsv)
 
 One row per guide RNA design.
 
