@@ -2,6 +2,8 @@
 
 A lightweight web application for exploring CRISPR base editing libraries. Search for proteins, inspect annotated target residues and guide RNA designs on an interactive sequence viewer, and visualize 3D structures from AlphaFold — all in the browser.
 
+This was built using Dash by Plotly [dash.plotly.com](http://dash.plotly.com/tutorial)
+
 ![BE-visualized screenshot](assets/readme_example.png)
 
 ## Quick start
